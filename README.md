@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 // Login
 color: black;
  font-size: 40px;
@@ -301,6 +302,7 @@ color: white;
     <div style="width: 120px; height: 40px; left: 120px; top: 551px; position: absolute; background: #7754F6; box-shadow: 0px 15px 30px -10px rgba(119, 84, 246, 0.18); border-radius: 10px; border: 1px solid"></div>
     <div style="left: 149px; top: 562px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 700; word-wrap: break-word">Register</div>
 </div>
+```
 
 ## OUTPUT:
 
